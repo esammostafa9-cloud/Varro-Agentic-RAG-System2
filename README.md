@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/varro-logo.svg" alt="Varro RAG logo" width="72" height="72">
+
 # Varro RAG
 
 **Ask your documents. Check every answer.**
